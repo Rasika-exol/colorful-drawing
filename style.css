@@ -18,7 +18,7 @@ body {
 }
 
 canvas {
-  border: 10px solid black;
+  border: 10px solid lavender;
   border-top-style: double;
   border-bottom-style: double;
   border-color: black;
