@@ -3,8 +3,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 150vh;
-  margin: 05;
+  height: 180vh;
+  margin: 06;
   background-image: url('https://img.freepik.com/free-photo/watercolor-paint-background_23-2148017445.jpg?size=626&ext=jpg&uid=R103638021&ga=GA1.2.211014714.1684584172&semt=ais');
   background-position: center; 
   background-size: cover;
@@ -13,12 +13,12 @@ body {
 .toolbar {
   display: flex;
   justify-content: center;
-  gap: 10px;
-  margin-bottom: 10px;
+  gap: 8px;
+  margin-bottom: 8px;
 }
 
 canvas {
-  border: 10px solid lavender;
+  border: 10px solid black;
   border-top-style: double;
   border-bottom-style: double;
   border-color: black;
